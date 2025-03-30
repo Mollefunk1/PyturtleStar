@@ -1,4 +1,4 @@
-# PyturtleStar
-A Pyturtle script for generating algorithmic visuals in the shape of stars.
+# PyTurtle Tests
+Contains some scripts for generating algorithmic visuals.
 
-Built with the Pyturtle library. Algorithm can be modified for different results, project is mainly used for experimenting with programmable visuals.
+These are some of my simple tests for creating simple visuals in python with the PyTurtle library.
